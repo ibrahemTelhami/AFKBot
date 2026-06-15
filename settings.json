@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": " chamois.aternos.host",
+    "ip": "Engineer.aternos.me",
     "port": 18614,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
